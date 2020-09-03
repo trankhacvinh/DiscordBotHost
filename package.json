@@ -1,0 +1,13 @@
+{
+  "name": "discord-bot-node",
+  "version": "0.0.0",
+  "description": "DiscordBotNode",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "discord.js": "^12.1.1"
+  }
+}

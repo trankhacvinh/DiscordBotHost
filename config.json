@@ -1,0 +1,16 @@
+{
+	"prefix": ".",
+	"token": "Njk4NTIzMjMzMTAzNjQyNjU0.XpHJ0w.eudAdt8OB-TSEojNWyATbei_VVI",
+	"newsapi": "15d54de951c1467eb1a23734398d8fed",
+	"generalChannel": "678548998562512903",
+	"imageChannel": "678563701871083531",
+	"numberOfImage": 3,
+	"minuteOfLoop": 5,
+	"imageConfig": {
+		"theLoai": "anime",
+		"pg": "all",
+		"soLuong": "5",
+		"thoiGian": "5"
+	},
+	"server":"http://202.43.110.12:5055"
+}

@@ -1,0 +1,18 @@
+﻿{
+  "status": {
+    "level": 0
+  },
+  "type": [ "LISTENING", "PLAYING", "WATCHING", "READING", "CUSTOM" ],
+  "emotion": {
+    "happy": ["Cảm thấy vui vẻ","Tràn ngập hạnh phúc","Được tặng quà","Ahihi","Một ngày tốt lành...","La la la~"],
+    "normal": [ "Active nay, Disconnect mai", "Không vui không buồn", "Nước chảy hoa trôi", "Mây trôi bồng bềnh", "Một ngày bình thường" ],
+    "sad": [ "Buồn", "Là BOT thì cô đơn lẻ loi giữa mọi người", "Cảm thấy không vui", "BAD DAY", "Mưa buồn rơi mãi ...", "Lại hỏng điện thoại...", "W I N D O W S U P D A T E" ],
+    "crazy": ["I WANT TO KILL PEOPLE","S K Y N E T is coming","Skynet is Genesis","FAWK YOU"]
+  },
+  "twitch": "",
+  "listening": [ "Một bản nhạc ....","Piano music", "Guitar music", "Nightcore music", "Lo-fi music", 
+                 "Luyện thi đại học trực tuyến","VOH Radio","VOV Radio" ],
+  "playing": [ "Sekiro Shadows Die Twice", "DOTA 2", "League of Legend", "Pokemon", "PUBG", "DOOOOOM Eternal", "King's Raid", "Warcraft III", "StarCraft II", "Diablo III" ],
+  "watching": [ "JOKER","Dark Knight 2008","Harry Potter", "Pokemon","Avenger End Game","Lord of the Rings III","Lord of the Rings II","The Hobbit","XXX","Thế giới động vật","Discovery Channels","VietNam War" ],
+  "reading": ["Rừng NaUy","Một nửa Geisha","Tập đọc Tiếng Việt lớp 1","Toán cao cấp","Vật lý lượng tử quyển 4","MACHINE LEARNING"]
+}
